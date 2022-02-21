@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="WINDOWS-1252"?>
+<testExecutions version="1">
+<file path="test\test_award_bonus.pkb">
+<testCase name="update_employee_salary" duration="26" >
+</testCase>
+<testCase name="fail_on_null_bonus" duration="4" >
+</testCase>
+</file>
+<file path="test\test_betwnstr.pkb">
+<testCase name="normal_case" duration="2" >
+</testCase>
+<testCase name="zero_start_position" duration="3" >
+</testCase>
+<testCase name="big_end_position" duration="2" >
+</testCase>
+<testCase name="null_string" duration="2" >
+</testCase>
+<testCase name="disabled_test" duration="0" >
+<skipped message="skipped"/>
+</testCase>
+</file>
+</testExecutions>
